@@ -226,9 +226,6 @@ html {
     background-color: #e2e2e2;
 }
 
-.hira-logo-icon {
-    height: 45px;
-}
 .header-container {
     padding: 10px;
     position: fixed;
@@ -236,9 +233,6 @@ html {
     width: 100%;
     background-color: white;
     z-index: 2;
-}
-.hira-logo {
-    margin-left: 30px;
 }
 .reference-bg {
     position: fixed;
